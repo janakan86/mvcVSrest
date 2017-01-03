@@ -1,8 +1,8 @@
 # Spring MVC , Spring REST
-##A very very simple implementation to compare spring MVC with Spring Rest
+##A very very simple implementation to compare traditional spring MVC with Spring MVC Rest
 
 
-The purpose of this is to try out Spring MVC and Rest
+The purpose of this is to try out Spring MVC and Spring MVC Rest
 
 ###How to run....
 
