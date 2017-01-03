@@ -1,10 +1,10 @@
 # mvcVSrest
-A very very simple implementation to compare spring MVC with Spring Rest
+##A very very simple implementation to compare spring MVC with Spring Rest
 
 
 The purpose of this is to try out Spring MVC and Rest
 
-How to run....
+###How to run....
 
 1.download the folder
 
