@@ -1,4 +1,4 @@
-# Spring MVC , Spring REST
+# Spring MVC , Spring MVC REST
 ##A very very simple implementation to compare traditional spring MVC with Spring MVC Rest
 
 
